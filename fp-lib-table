@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Molex MiniFit Jr")(type KiCad)(uri "$(KIPRJMOD)\\Molex MiniFit Jr")(options "")(descr ""))
+  (lib (name "FS FINAL")(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+)

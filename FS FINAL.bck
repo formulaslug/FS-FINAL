@@ -1,0 +1,88 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1PO0000M
+D BMS Cell board
+$ENDCMP
+#
+$CMP 1PO0000N
+D BMS Cell board
+$ENDCMP
+#
+$CMP 1PO0000P
+D BMS Cell board
+$ENDCMP
+#
+$CMP 2CN0002E
+D Elithion Lithiumate HD BMS
+$ENDCMP
+#
+$CMP CD4042B
+D Quad D Latch
+$ENDCMP
+#
+$CMP CD4043B
+D Quad SR Latch (Positive logic)
+$ENDCMP
+#
+$CMP CD4044B
+D Quad SR Latch (Negative logic)
+$ENDCMP
+#
+$CMP CD4082B
+D Dual 4-input AND
+$ENDCMP
+#
+$CMP IR155-3203
+D Bender IMD
+$ENDCMP
+#
+$CMP ISO1050
+D CAN Tranceiver
+$ENDCMP
+#
+$CMP LM555N
+F ns/lm555.pdf
+$ENDCMP
+#
+$CMP MCP6004
+D Quad Op amp
+$ENDCMP
+#
+$CMP PQ05RR12
+D 5V 1A Regulator
+$ENDCMP
+#
+$CMP PQ12RD21
+D 12V 2A Regulator
+$ENDCMP
+#
+$CMP PQ3RD13
+D 3.3V 1A Regulator
+$ENDCMP
+#
+$CMP PS2501
+D Quad Optoisolator
+$ENDCMP
+#
+$CMP PS2501-4
+D Quad Optoisolator (non-inverting)
+$ENDCMP
+#
+$CMP RDD08110S12
+D 100VDC to 12VDC
+$ENDCMP
+#
+$CMP SN754410
+D H-Bridge
+$ENDCMP
+#
+$CMP SPST
+D Interrupteur simple
+K switch
+$ENDCMP
+#
+$CMP VYC30W-Q24-S12
+D 12VDC-12VDC converter
+$ENDCMP
+#
+#End Doc Library
